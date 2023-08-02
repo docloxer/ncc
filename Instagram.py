@@ -367,7 +367,7 @@ def UserAgent():
     versi=random.choice(igve)
     ua1 = f'Instagram {versi} Android ({andro}; {dpis}; {pxl}; INFINIX MOBILITY LIMITED/Infinix; Infinix X657B; Infinix-X657B; mt6761; in_ID; {kode})'
     ua2 = f'Instagram {versi} Android ({andro}; {dpis}; {pxl}; vivo; vivo 1820; 1820; mt6762; {basa}; {kode})'
-    ua3 = f'Instagram {versi} Android ({andro}; {dpis}; {pxl}; OPPO; CPH2109; OP4BA5L1; qcom; {basa}; {kode})'
+    ua3 = f'Instagram {versi} Android ({andro}; {dpis}; {pxl}; SAMSUNG; SM-J120H; SM-J120F; SM-J120M; {basa}; {kode})'
     ua4 = f'Instagram {versi} Android ({andro}; {dpis}; {pxl}; Xiaomi/xiaomi; Redmi Note 8; ginkgo; qcom; {basa}; {kode})'
     uaa = rc([ua1,ua2,ua3,ua4])
     return uaa
