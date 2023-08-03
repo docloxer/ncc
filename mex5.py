@@ -931,7 +931,7 @@ class instagram:
 				sleep(float( random.uniform(nyMnD*10,nyMxD*10) / 10 ))
 				six_id=self.sixAPI(i)
 				print(f' {str(six)}{U}}}{C} {i} {H}Unfollow-Berhasil{C}')
-				self.unfollowAPI(six_id,'5452333948',self.cookie)
+				self.unfollowAPI(six_id,'58612083547',self.cookie)
 				#print(w)
 			input(f'\n\n [{U}#{C}] Unfollow-all selesai...');self.menu()
 		elif c in ("ubah","Ubah","UBAH"):
