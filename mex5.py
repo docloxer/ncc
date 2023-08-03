@@ -187,7 +187,7 @@ class Instagram:
                 ──║║──╚═╗╔╝║╔═╝║╔╗║ 
                 ──║║──╔═╝║─║║──║╚╝║ 
                 ──╚╝──╚══╝─╚╝──╚══╝ 
-                                    𝔾𝕀𝕋ℍ𝕌𝔹=https://github.com/typotyp
+                                    
 """,title=f"{P2}{H2}{self.timeLine()}",width=80,padding=(0,4),style=f"{color_table}"))
     def convert(self, xx, cok):
         try:
